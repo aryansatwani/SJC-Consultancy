@@ -17,7 +17,7 @@ Run the Streamlit App
 streamlit run frontend-fds.py
 ```
 
-#### File Descriptions 
+### File Descriptions 
 
 `Attackers Data`: Contains attacker data of the 5 Major leagues.
 
