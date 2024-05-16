@@ -29,9 +29,10 @@ streamlit run frontend-fds.py
 
 `Performance Rating`: Contains the datasets after performance rating has been calculated.
 
-`AFCON_predictions.ipynb`:
+`AFCON_predictions.ipynb`: Contains Match and Tournament Simulation of the recently concluded CAF Africa Cup of Nations 2023 using Poisson Regression.
 
-`AFC_Asian_Cup_predictions.ipynb`:
+`AFC_Asian_Cup_predictions.ipynb`: Contains Match and Tournament Simulation of the recently concluded AFC Asian Cup 2023 using Poisson Regression.
+
 
 `Dataset Combine.ipynb`: Jupyter notebook where all the data was combined.
 
