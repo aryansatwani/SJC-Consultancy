@@ -33,7 +33,9 @@ streamlit run frontend-fds.py
 
 `AFC_Asian_Cup_predictions.ipynb`: Contains Match and Tournament Simulation of the recently concluded AFC Asian Cup 2023 using Poisson Regression.
 
-`Euro Predictions.ipynb`: Contains Match and Tournament Simulation of the upcoming UEFA Euro 2024 using Poisson Regression.
+`euros_predictions.ipynb`: Contains Match and Tournament Simulation of the upcoming UEFA Euro 2024 using Poisson Regression.
+
+`Copa_America_predictions.ipynb`: Contains Match and Tournament Simulation of the upcoming CONMEBOL Copa America 2024 using Poisson Regression.
 
 `Dataset Combine.ipynb`: Jupyter notebook where all the data was combined.
 
