@@ -46,7 +46,7 @@ streamlit run frontend-fds.py
 `frontend-fds.py` : Contains the code for the Streamlit app.
 
 `results.csv` : Results of all the matches taken from 1872 to 2024 (However, considered matches from September 2020 to April 2024)
-'[International football results from 1872 to 2024]' '(https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/code)'
+Dataset Link: https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/code
 
 
 
